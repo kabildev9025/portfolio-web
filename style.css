@@ -8,6 +8,7 @@ body, h1, h2, h3, p, ul, li, input, textarea, button {
 
 body {
     line-height: 1.6;
+  
 }
 
 header {
@@ -36,14 +37,17 @@ section {
 }
 
 #home {
-    background: #f1bdf1;
+    background: #65705bc0;
     padding: 60px 20px;
 }
 
+
 #about, #projects, #contact {
-    background: #ffffff;
+    background: #3b3d3dc0;
     padding: 40px 20px;
+    
 }
+
 .project {
     margin: 20px 0;
 }
